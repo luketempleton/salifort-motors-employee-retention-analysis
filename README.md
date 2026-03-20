@@ -69,7 +69,7 @@ This project aims to:
 
 The Random Forest model identified the most important drivers of employee attrition, with satisfaction, workload, and project count emerging as major predictors.
 
-![Feature Importance Chart](images/feature_importance.png)
+![Feature Importance](images/feature_importance.png)
 
 ---
 
